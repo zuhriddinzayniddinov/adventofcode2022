@@ -1,0 +1,15 @@
+C:\C#\adventofcode2022\9_day\bin\Debug\net6.0\9_day.exe
+C:\C#\adventofcode2022\9_day\bin\Debug\net6.0\9_day.deps.json
+C:\C#\adventofcode2022\9_day\bin\Debug\net6.0\9_day.runtimeconfig.json
+C:\C#\adventofcode2022\9_day\bin\Debug\net6.0\9_day.dll
+C:\C#\adventofcode2022\9_day\bin\Debug\net6.0\9_day.pdb
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.csproj.AssemblyReference.cache
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.AssemblyInfoInputs.cache
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.AssemblyInfo.cs
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.csproj.CoreCompileInputs.cache
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.dll
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\refint\9_day.dll
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.pdb
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\9_day.genruntimeconfig.cache
+C:\C#\adventofcode2022\9_day\obj\Debug\net6.0\ref\9_day.dll
