@@ -1,2 +1,2 @@
-# adventofcode2022
-Solved
+# adventofcode 2022 years
+<dir>Zayniddinov Zuhriddin</dir>
